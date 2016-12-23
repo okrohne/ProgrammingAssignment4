@@ -18,6 +18,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 * reading the testing tables
 * reading the activity labels
 * reading the feature vector
+
 #### b) Then assign appropriate column names
 * Finally, merge all previous created data into one data set
 
