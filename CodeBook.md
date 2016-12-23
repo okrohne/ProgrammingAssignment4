@@ -20,17 +20,17 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 * reading the feature vector
 
 #### b) Then assign appropriate column names
-* Finally, merge all previous created data into one data set
+#### c) Finally, merge all previous created data into one data set
 
 ### 2) Extracting only the measurements on the mean and standard deviation for each measurement
 #### a) Read column names into a new variable
-* Create a vector for defining ID, mean and standard deviation
-* Create the subset for the mean and standard deviation only from the merged dataset
+#### b) Create a vector for defining ID, mean and standard deviation
+#### c) Create the subset for the mean and standard deviation only from the merged dataset
 
 ### 3) Using descriptive activity names to name the activities in the data set
 
 ### 4) Appropriately labeling the data set with descriptive variable names
 
 ### 5) From the data set in the previous step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-* Create a second tidy data set
-* Write the second tidy data set in the required txt file
+#### a) Create a second tidy data set
+#### b) Write the second tidy data set in the required txt file
