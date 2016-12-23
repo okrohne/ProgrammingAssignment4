@@ -31,5 +31,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ### 4) Appropriately labeling the data set with descriptive variable names
 
 ### 5) From the data set in the previous step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-#### a) Create a second tidy data set
-#### b) Write the second tidy data set in the required txt file
+* Create a second tidy data set
+* Write the second tidy data set in the required txt file
