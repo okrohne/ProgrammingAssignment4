@@ -13,16 +13,16 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## Step 3 - Description of the script
 ### 1) Create one data set by merging the training and test data sets
-1. Reading all files one by one
+#### a) Reading all files one by one
 * reading the trainings tables
 * reading the testing tables
 * reading the activity labels
 * reading the feature vector
-2. Then assign appropriate column names
+#### b) Then assign appropriate column names
 * Finally, merge all previous created data into one data set
 
 ### 2) Extracting only the measurements on the mean and standard deviation for each measurement
-1. Read column names into a new variable
+#### a) Read column names into a new variable
 * Create a vector for defining ID, mean and standard deviation
 * Create the subset for the mean and standard deviation only from the merged dataset
 
@@ -31,5 +31,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ### 4) Appropriately labeling the data set with descriptive variable names
 
 ### 5) From the data set in the previous step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-1. Create a second tidy data set
-2. Write the second tidy data set in the required txt file
+#### a) Create a second tidy data set
+#### b) Write the second tidy data set in the required txt file
